@@ -1,0 +1,6 @@
+---
+version: 1
+threads: 2
+pid_file: /tmp/yikes_pingora_proxy.pid
+error_log: /tmp/yikes_pingora_proxy_err.log
+upgrade_sock: /tmp/yikes_pingora_proxy.sock
